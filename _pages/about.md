@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Ma
+About Me
 ======
 I am currently a **research fellow** at the **Centre for Hydrogen Innovations, National University of Singapore**, focusing on the combustion utilization of hydrogen, ammonia, and solid fuels, as well as pollutant control. My collaborating supervisor is Professor Zhang Huangwei. 
 
